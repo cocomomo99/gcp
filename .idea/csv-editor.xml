@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\.ipynb_checkpoints\data_set\data-04-zoo.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\.ipynb_checkpoints\data_set\iris.csv">
           <value>
             <Attribute>
