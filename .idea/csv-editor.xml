@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\.ipynb_checkpoints\data_set\caesarian.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\.ipynb_checkpoints\data_set\data-01-cars.csv">
           <value>
             <Attribute>
